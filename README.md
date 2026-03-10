@@ -1,3 +1,2 @@
-# Manasvi-jain
-heal bharat
+# heal bharat
 project on CRUD and data migration
